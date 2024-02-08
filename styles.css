@@ -4,7 +4,9 @@ h3{
 	text-decoration: underline;
 	text-decoration-color: black;
 }
-
+p{
+	text-align: justify;
+}
 h1{
 	color:#f3c005;
 	text-align: center;
