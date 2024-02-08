@@ -1,2 +1,25 @@
+h3{
+	color: #f3c005;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-color: black;
+}
 
-/* Your CSS Code here. */
+h1{
+	color:#f3c005;
+	text-align: center;
+}
+em{
+	color:#f3c005;
+}
+b{
+	color: #f3c005;
+}
+
+a{
+	color: black;
+}
+
+nav{
+	text-align: center;
+}
